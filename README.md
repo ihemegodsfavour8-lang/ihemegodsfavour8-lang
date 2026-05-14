@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-UK-00E5FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Canada-00E5FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Specialization-Fullstack-00E5FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Production%20Systems-00E5FF?style=flat-square" />
 </p>
