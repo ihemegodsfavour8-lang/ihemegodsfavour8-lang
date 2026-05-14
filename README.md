@@ -3,7 +3,7 @@
 <!-- ======================= -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=God'sFavour+Iheme;Fullstack+Engineer;Building+Scalable+Systems;AI+%7C+Web+%7C+Backend"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=God'sFavour+Ugochukwu+Iheme;Fullstack+Engineer;Building+Scalable+Systems;AI+%7C+Web+%7C+Backend"
     alt="Typing Animation"
   />
 </h1>
