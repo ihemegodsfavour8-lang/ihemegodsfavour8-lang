@@ -3,7 +3,7 @@
 <!-- ======================= -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Divine+Eyibie;Fullstack+Engineer;Building+Scalable+Systems;AI+%7C+Web+%7C+Backend"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=God'sFavour+Iheme;Fullstack+Engineer;Building+Scalable+Systems;AI+%7C+Web+%7C+Backend"
     alt="Typing Animation"
   />
 </h1>
@@ -30,6 +30,7 @@
 I'm a **Fullstack Software Engineer** passionate about designing and building **production-ready systems** that solve real-world problems.
 
 **What drives me:**
+
 - 🏗️ Architecting scalable, maintainable backend systems
 - 🎨 Crafting seamless, intuitive user experiences
 - 🤖 Integrating AI & machine learning into practical applications
@@ -68,8 +69,9 @@ I specialize in transforming complex requirements into elegant, performant solut
     <td width="50%">
 
 ### Backend Engineering
+
 - Microservices architecture
-- RESTful & event-driven APIs  
+- RESTful & event-driven APIs
 - Database design & optimization
 - Real-time data sync & automation
 - Server-side logic & business logic implementation
@@ -79,6 +81,7 @@ I specialize in transforming complex requirements into elegant, performant solut
     <td width="50%">
 
 ### Frontend Development
+
 - React & Next.js applications
 - Responsive, accessible UI/UX
 - State management & complex interactions
@@ -92,6 +95,7 @@ I specialize in transforming complex requirements into elegant, performant solut
     <td width="50%">
 
 ### AI & Machine Learning
+
 - Computer vision & image processing
 - Model integration & inference
 - Data preprocessing & analysis
@@ -102,6 +106,7 @@ I specialize in transforming complex requirements into elegant, performant solut
     <td width="50%">
 
 ### System Design
+
 - Scalable architecture patterns
 - Database optimization
 - Caching strategies
@@ -109,21 +114,24 @@ I specialize in transforming complex requirements into elegant, performant solut
 - Cloud deployment & DevOps
 - Testing & quality assurance
 
-    </td>
-  </tr>
-</table>
+      </td>
+
+    </tr>
+  </table>
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### 🎯 Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### ⚛️ Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -132,29 +140,34 @@ I specialize in transforming complex requirements into elegant, performant solut
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
 
 ### 🏗️ Backend & Runtime
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
 ### 🗄️ Databases & Storage
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### 🚀 DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00E5FF?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🤖 AI & Data
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-00E5FF?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/CV-00E5FF?style=flat-square)
 
 ### 📊 Additional Tools
+
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-00E5FF?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-00E5FF?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
@@ -207,13 +220,13 @@ I specialize in transforming complex requirements into elegant, performant solut
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divine-eyibie/">
+  <a href="www.linkedin.com/in/godsfavouriheme">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://github.com/UncleChenna">
+  <a href="https://github.com/ihemegodsfavour8-lang">
     <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="mailto:eyibieuche@gmail.com">
+  <a href="mailto:ihemegodsfavour8@gmail.com">
     <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
